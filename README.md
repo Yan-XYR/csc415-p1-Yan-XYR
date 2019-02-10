@@ -12,4 +12,4 @@
 ## ./hw
 
 ## What the prgram does:
-## This program prints "CSC415, This prgram has been written by Yanrui Xu!
+## This program prints "CSC415, This prgram has been written by Yanrui Xu!"
