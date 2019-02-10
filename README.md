@@ -4,6 +4,12 @@
 
 ## Student ID   : 918665948
 
-## Build Instructions
+## Build Instructions: 
+## 1. csc415-p1-Yan-XYR
+## 2. make
 
-## Run Instructions
+## Run Instructions:
+## ./hw
+
+## What the prgram does:
+## This program prints "CSC415, This prgram has been written by Yanrui Xu!

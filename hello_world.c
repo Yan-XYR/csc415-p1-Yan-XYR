@@ -1,13 +1,12 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
-//You may also add more include directives as well.
-
+#define MYNAME "Yanrui Xu"
 
 
 int
 main(int argc, char const *argv[])
 {
-
+    printf("CSC415, This program has been written by %s!\n", MYNAME);
 	return 0;
 }
