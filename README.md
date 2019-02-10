@@ -1,8 +1,8 @@
 # CSC 415 - Project 1 - Hello World
 
-## Student Name : Name Goes Here
+## Student Name : Yanrui Xu
 
-## Student ID   : Student ID goes here
+## Student ID   : 918665948
 
 ## Build Instructions
 
